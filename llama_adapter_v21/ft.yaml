@@ -1,0 +1,3 @@
+META:
+  # - '/home/lzhan/VLLM_MIA/finetune_dataset/geometry/geo_labels_llava_trainingset.json'
+  - '/home/lzhan/VLLM_MIA/finetune_dataset/emnist/emnist_6_1k_llava_trainingset.json'
