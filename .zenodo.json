@@ -1,0 +1,46 @@
+{
+  "title": "Membership Inference Attacks against Large Vision-Language Models",
+  "description": "Official software implementation accompanying the NeurIPS 2024 paper Membership Inference Attacks against Large Vision-Language Models. The associated VL-MIA datasets are distributed separately through their referenced dataset records.",
+  "creators": [
+    {
+      "name": "Li, Zhan"
+    },
+    {
+      "name": "Wu, Yongtao"
+    },
+    {
+      "name": "Chen, Yihang"
+    },
+    {
+      "name": "Tonin, Francesco"
+    },
+    {
+      "name": "Abad Rocamora, Elias"
+    },
+    {
+      "name": "Cevher, Volkan"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "language": "eng",
+  "grants": [
+    {
+      "id": "10.13039/501100001711::200021_205011"
+    }
+  ],
+  "keywords": [
+    "membership inference",
+    "vision-language models",
+    "privacy",
+    "machine learning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.52202/079017-3131",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ]
+}
